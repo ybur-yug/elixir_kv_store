@@ -1,4 +1,1 @@
-KV
-==
-
-** TODO: Add description **
+# Keyz - A Simple Elixir KV Store
